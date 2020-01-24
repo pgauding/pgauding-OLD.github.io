@@ -5,6 +5,10 @@ Gemfile.lock
 *~
 *#
 
+*.jpg
+*.jpeg
+*.png
+
 Gauding-Blogdown
 .DS_Store
 bak/
