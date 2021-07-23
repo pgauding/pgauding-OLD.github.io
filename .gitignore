@@ -12,3 +12,4 @@ Gemfile.lock
 Gauding-Blogdown
 .DS_Store
 bak/
+.Rproj.user
